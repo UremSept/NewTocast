@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NewTocast.iml" filepath="$PROJECT_DIR$/NewTocast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mydaloge/mydaloge.iml" filepath="$PROJECT_DIR$/mydaloge/mydaloge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newtoast/newtoast.iml" filepath="$PROJECT_DIR$/newtoast/newtoast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tocast/tocast.iml" filepath="$PROJECT_DIR$/tocast/tocast.iml" />
+    </modules>
+  </component>
+</project>
